@@ -1,0 +1,26 @@
+com.squareup.okhttp.ResponseSource: com.squareup.okhttp.ResponseSource[] values()
+com.squareup.okhttp.ResponseSource: com.squareup.okhttp.ResponseSource valueOf(java.lang.String)
+com.squareup.okhttp.internal.http.HttpURLConnectionImpl$Retry: com.squareup.okhttp.internal.http.HttpURLConnectionImpl$Retry[] values()
+com.squareup.okhttp.internal.http.HttpURLConnectionImpl$Retry: com.squareup.okhttp.internal.http.HttpURLConnectionImpl$Retry valueOf(java.lang.String)
+com.squareup.okhttp.internal.spdy.ErrorCode: com.squareup.okhttp.internal.spdy.ErrorCode[] values()
+com.squareup.okhttp.internal.spdy.ErrorCode: com.squareup.okhttp.internal.spdy.ErrorCode valueOf(java.lang.String)
+com.squareup.okhttp.internal.spdy.HeadersMode: com.squareup.okhttp.internal.spdy.HeadersMode[] values()
+com.squareup.okhttp.internal.spdy.HeadersMode: com.squareup.okhttp.internal.spdy.HeadersMode valueOf(java.lang.String)
+org.apache.cordova.CordovaActivity: CordovaActivity()
+org.apache.cordova.CordovaWebView: void setWebViewClient(android.webkit.WebViewClient)
+org.apache.cordova.CordovaWebView: void setWebChromeClient(android.webkit.WebChromeClient)
+org.apache.cordova.CordovaWebView: org.apache.cordova.CordovaChromeClient getWebChromeClient()
+org.apache.cordova.CordovaWebView: org.apache.cordova.Whitelist getWhitelist()
+org.apache.cordova.CordovaWebView: org.apache.cordova.Whitelist getExternalWhitelist()
+org.apache.cordova.CordovaWebView: org.apache.cordova.CordovaResourceApi getResourceApi()
+org.apache.cordova.CordovaWebView: org.apache.cordova.CordovaPreferences getPreferences()
+org.apache.cordova.PluginResult$Status: org.apache.cordova.PluginResult$Status[] values()
+org.apache.cordova.PluginResult$Status: org.apache.cordova.PluginResult$Status valueOf(java.lang.String)
+org.kuralsuvadi.KuralSuvadi
+org.kuralsuvadi.KuralSuvadi: KuralSuvadi()
+org.kuralsuvadi.R$drawable: int icon
+org.kuralsuvadi.R$drawable: int screen
+org.kuralsuvadi.R$string: int activity_name
+org.kuralsuvadi.R$string: int app_name
+org.kuralsuvadi.R$string: int launcher_name
+org.kuralsuvadi.R$xml: int config

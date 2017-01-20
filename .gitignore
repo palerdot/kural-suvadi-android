@@ -1,3 +1,7 @@
+# ignoring cordova files
+.cordova/
+.idea/
+
 # Built application files
 *.apk
 *.ap_
